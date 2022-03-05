@@ -9,7 +9,7 @@ This was an exercise to create a LinkedIn post generator by training a model on 
     - How to tokenize and sequence text
     - How to use Tableau to visualize and filter data 
 - Training and evaluating the model
-    - How to train a model to recognize the semantics of text over long stretches using recurrent neural networks and LSTMS (Long Short-Term Memory)
+    - How to train a model to recognize the semantics of text over long stretches using recurrent neural networks and LSTMs (Long Short-Term Memory)
 
 ## What I would do differently
 - The dataset used was not preprocessed enough, due to the variation in post content I should have taken time to label different types of posts (e.g. stories, articles, announcements). This variation led to disjointed outputs, for example, half inspiring story and half rant. 
